@@ -1,4 +1,4 @@
 my contact details
 
 name:  Ynon Yerushalmy
-cell phone: 052-7905450
+email: ynonye@gmail.com
